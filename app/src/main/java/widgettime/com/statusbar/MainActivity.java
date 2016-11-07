@@ -13,6 +13,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
     TextView time_show_tv;
 
 
+    String tt;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
